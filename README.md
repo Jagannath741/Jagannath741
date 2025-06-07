@@ -1,7 +1,7 @@
-  ###### Hi 👋, I'm Jagannath Patra  
+  # Hi 👋, I'm Jagannath Patra  
 ---
 
-# A passionate Full-Stack developer from India 🇮🇳
+## A passionate Full-Stack developer from India 🇮🇳
 
 🌱 I’m currently learning Everything xD
 
