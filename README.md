@@ -1,11 +1,14 @@
-## Hi 👋, I'm Jagannath Patra  
+  ###### Hi 👋, I'm Jagannath Patra  
 ---
 
-A passionate Full-Stack developer from India 🇮🇳
+# A passionate Full-Stack developer from India 🇮🇳
 
 🌱 I’m currently learning Everything xD
+
 💬 Ask me about React, Power BI
+
 📫 How to reach me jagannathpatra718@gmail.com
+
 ⚡ Fun fact 🧑‍💻
 
 Connect with me:
